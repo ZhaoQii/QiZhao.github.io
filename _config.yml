@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Qi Zhao 2
+title                    : "Qi Zhao 2"
 title_separator          : "-"
 name                     : &name "Qi Zhao (赵起)"
 description              : &description "personal description"
