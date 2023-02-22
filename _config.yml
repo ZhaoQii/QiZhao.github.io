@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Zhao 3"
+title                    : "Qi Zhao"
 title_separator          : "-"
 name                     : &name "Qi Zhao (赵起)"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Qi Zhao (赵起)"
+  avatar           : "qiprofile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "State College, PA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
