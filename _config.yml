@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qi Zhao (赵起)"
-  avatar           : "qiprofile.png"
+  avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Marketing"
   location         : "State College, PA"
   employer         : "Penn State University"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/qizhao940728/"
+  linkedin         : "qizhao940728"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
